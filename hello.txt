@@ -1,0 +1,6 @@
+git add hello.txt
+git commit -m "Hello World"
+git commit --amend -m "Hello World!"
+git commit -m "Fix the typo"
+git commit -m "Adrien"
+git checkout main
